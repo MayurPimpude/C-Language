@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633337180 source:c:\users\mayur\documents\c language\prefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

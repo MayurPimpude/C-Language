@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638537827 source:c:\users\mayur\documents\c language\chat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

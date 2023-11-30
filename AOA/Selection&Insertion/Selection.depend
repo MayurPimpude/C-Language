@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643109043 source:c:\users\mayur\documents\c language\selection\main.c
+	<stdio.h>
+	<math.h>
+	<sys/time.h>
+

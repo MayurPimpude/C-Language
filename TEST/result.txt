@@ -1,0 +1,7 @@
+class=D1AD
+name=MAYUR PIMPUDE
+roll no=43
+maths=15
+physics=20
+chemistry=15
+drawing=17

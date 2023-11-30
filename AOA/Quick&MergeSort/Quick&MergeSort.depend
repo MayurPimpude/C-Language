@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644069324 source:c:\users\mayur\documents\c language\quick&mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<sys/time.h>
+
+1644473508 source:c:\users\mayur\documents\c language\aoa\quick&mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<sys/time.h>
+

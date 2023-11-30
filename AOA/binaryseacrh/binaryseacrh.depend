@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645505605 source:c:\users\mayur\documents\c language\binaryseacrh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<math.h>
+

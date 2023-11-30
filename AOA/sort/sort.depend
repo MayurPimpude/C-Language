@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1645121940 source:c:\users\mayur\documents\c language\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<sys/time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627710368 source:c:\users\mayur\documents\c language\mayur practical\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

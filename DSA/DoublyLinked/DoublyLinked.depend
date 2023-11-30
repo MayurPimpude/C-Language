@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637216130 source:c:\users\mayur\documents\c language\doublylinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

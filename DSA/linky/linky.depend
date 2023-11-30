@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635000075 source:c:\users\mayur\documents\c language\linky\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

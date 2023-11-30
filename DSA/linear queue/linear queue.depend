@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633172299 source:c:\users\mayur\documents\c language\linear queue\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

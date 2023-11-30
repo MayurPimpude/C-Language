@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646658858 source:c:\users\mayur\documents\c language\semaphore\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633193270 source:c:\users\mayur\documents\c language\circular queue\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

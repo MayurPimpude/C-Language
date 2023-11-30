@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633273990 source:c:\users\mayur\documents\c language\priority queue\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
